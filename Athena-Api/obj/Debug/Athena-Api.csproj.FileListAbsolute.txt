@@ -1,0 +1,5 @@
+C:\Users\Filippo\Desktop\C#\Athena-Api\Athena-Api\bin\Debug\Athena-Api.exe.config
+C:\Users\Filippo\Desktop\C#\Athena-Api\Athena-Api\bin\Debug\Athena-Api.exe
+C:\Users\Filippo\Desktop\C#\Athena-Api\Athena-Api\bin\Debug\Athena-Api.pdb
+C:\Users\Filippo\Desktop\C#\Athena-Api\Athena-Api\obj\Debug\Athena-Api.exe
+C:\Users\Filippo\Desktop\C#\Athena-Api\Athena-Api\obj\Debug\Athena-Api.pdb
